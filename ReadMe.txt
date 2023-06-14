@@ -1,0 +1,1 @@
+This code allows you to encrypt a message into an audio file (wav file) and, accordingly, decrypt the audio file. To run it, it is enough to copy this code into the Python programming environment, and after launching, enter the message that you want to encrypt
